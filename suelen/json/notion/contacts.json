@@ -1,0 +1,22 @@
+[
+{
+   "nome":"suelen"
+   ,"email":"suelenlanna@hotmail.com"
+   ,"telefone":988413217
+   ,"endereço":{
+    "rua":1
+    ,"cidade":"BH"
+    ,"cep":3132231
+   } 
+},
+{
+    "nome":"ana"
+    ,"email":"ana@hotmail.com"
+    ,"telefone":32132321
+    ,"endereço":{
+        "rua":2
+        ,"cidade":"RJ"
+        ,"cep":22513510
+       }  
+}
+]

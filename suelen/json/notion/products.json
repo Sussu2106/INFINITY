@@ -1,0 +1,14 @@
+[
+    {
+        "nome":"Blush Líquido Rare Beauty"
+        , "preço": 169.00
+        , "descrição":"Blush líquido leve e de longa duração que possibilita construir camadas e cria um rubor lindo, suave e saudável. Disponível em acabamentos matte e glow."
+        , "disponibilidade": true
+    },
+    {
+        "nome":"Base Rare Beauty"
+        , "preço": 239.00
+        , "descrição":"Uma base leve com um prático aplicador para pés de corça, esta base oferece pigmentos puros, semelhante ao soro, facilitando a mistura "
+        , "disponibilidade": true
+    }
+]

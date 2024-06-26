@@ -1,0 +1,20 @@
+[
+    {
+    "titulo":"fazer exercício físico"
+    ,"descrição":"madfit ou lilly sabri"
+    ,"data de criação": "29/05/2024"
+    ,"concluída":true
+    },
+    {
+    "titulo":"estudar e montar projetos"
+    ,"descrição":"pesquisar projetos full-stack"
+    ,"data de criação": "29/05/2024"
+    ,"concluída":false
+    },
+    {
+    "titulo":"ler e meditar"
+    ,"descrição":"seguir o guia de estudo"
+    ,"data de criação": "29/05/2024"
+    ,"concluída":true
+    }
+]

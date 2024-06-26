@@ -1,0 +1,93 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #d0e6f9; 
+}
+
+header {
+    background-color: #9dd5ff; 
+    color: #fff;
+    padding: 20px 0;
+    text-align: center;
+}
+
+nav {
+    background-color: #74b3e8; 
+    padding: 10px 0;
+    text-align: center;
+}
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+nav ul li {
+    margin: 0 15px;
+    display: inline-block;
+}
+
+nav ul li a {
+    color: #fff;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+main {
+    padding: 20px;
+    background-color: #fff;
+}
+
+img {
+    width: 300px;
+}
+section {
+    margin-bottom: 20px;
+}
+
+section h2 {
+    color: #1a8fe9;
+}
+
+section p, section ul {
+    line-height: 1.6;
+}
+
+section ul {
+    padding-left: 20px;
+}
+
+section ul li {
+    margin-bottom: 10px;
+}
+
+section img {
+    margin: 10px auto;
+    display: block;
+}
+
+footer {
+    background-color: #1a8fe9;
+    color: #fff;
+    text-align: center;
+    padding: 10px 0;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+
+/*COMEÇANDO EXERCÍCIO*/
+section>div,p{
+    color:#1a8fe9
+}
+#exercicio2 > p:nth-child(4){
+    color: green;
+}
+#exercicio3>div> p:nth-child(2){
+    color: red;
+}
+#exercicio5>especial{
+    color:brown
+}
